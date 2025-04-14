@@ -19,7 +19,13 @@ Reinforcement Learning: Optimizes model hyperparameters through RL techniques
 Scalable Design: Easily extendable to additional sensors and algorithms
 
 🎬 Demo
-Will be added here soon.........
+
+
+https://github.com/user-attachments/assets/ba8bc5b6-942e-4678-8d87-20e5c84b0093
+
+
+
+
 🏗️ Architecture
 The PHM Agent System follows a modular, message-based architecture:
 ![image](https://github.com/user-attachments/assets/6a16c30c-b0e6-44bc-adc5-a77116792101)
